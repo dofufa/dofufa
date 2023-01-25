@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+  * Data Visualization with Google Charts
+  * Low-content book automation
+  * Medium-content podcast production
+
 <!--
 **dofufa/dofufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
