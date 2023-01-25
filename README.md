@@ -5,10 +5,11 @@
   * Low-content book automation
   * Medium-content podcast production
   * [Chinese seal chop generator][chop] for creators
+  * [Seal chop API][capi] for developers
 
 
 [chop]: https://new.sealchop.com/create/index.html
-
+[capi]: https://about.sealchop.com
 <!--
 
 **dofufa/dofufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
