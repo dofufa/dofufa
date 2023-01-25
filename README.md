@@ -4,8 +4,13 @@
   * Data Visualization with Google Charts
   * Low-content book automation
   * Medium-content podcast production
+  * [Chinese seal chop generator][chop] for creators
+
+
+[chop]: https://new.sealchop.com/create/index.html
 
 <!--
+
 **dofufa/dofufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
