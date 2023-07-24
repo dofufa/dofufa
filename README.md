@@ -7,6 +7,8 @@
   * [Chinese seal chop generator][chop] for creators
   * [Seal chop API][capi] for developers
 
+## Tools
+  + https://letsdebug.net/ for Let's Encrypt https://letsencrypt.org/
 
 [chop]: https://new.sealchop.com/create/index.html
 [capi]: https://about.sealchop.com
