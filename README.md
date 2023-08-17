@@ -5,7 +5,7 @@
   * Low-content book automation
   * Medium-content podcast production
   * [Chinese seal chop generator][chop] for creators
-  * [Seal chop API][capi] for developers
+  * Seal chop API for developers
 
 ### Useful Tools
   + https://letsdebug.net/ for Let's Encrypt https://letsencrypt.org/
