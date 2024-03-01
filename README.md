@@ -2,7 +2,11 @@
 
 - 🔭 I’m currently working on ...
   + March 2024
-    + Chrome extension message passing templates
+    + Message passing Chrome extension templates
+      + Template 1: Popup sending message to service worker
+      + Template 2: TBD
+      + Template 3: Popup sending message to content script
+      + Template 4: TBD
     + Open educational resource (OER) learning objects
   + Earilier
     * Data Visualization with Google Charts
