@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
+  + Chrome extension message passing templates 
   * Data Visualization with Google Charts
   * Low-content book automation
   * Medium-content podcast production
