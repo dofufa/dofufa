@@ -6,7 +6,7 @@
       + Template 1: [Popup sending message to service worker][mp1]
       + Template 2: [Service worker sending message to content script][mp2]
       + Template 3: [Popup sending message to content script][mp3]
-      + Template 4: [ontent script sending message to service worker][mp4]
+      + Template 4: [Content script sending message to service worker][mp4]
     + Open educational resource (OER) learning objects
     + Low-content book automation
       + Reduces workload for publishing to github, [gitbook](https://www.gitbook.com/), etc.
