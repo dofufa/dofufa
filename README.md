@@ -3,10 +3,10 @@
 - 🔭 I’m currently working on ...
   + March 2024
     + Message passing Chrome extension templates
-      + Template 1: Popup sending message to service worker
-      + Template 2: TBD
-      + Template 3: Popup sending message to content script
-      + Template 4: TBD
+      + Template 1: [Popup sending message to service worker][mp1]
+      + Template 2: [Service worker sending message to content script][mp2]
+      + [Template 3: Popup sending message to content script][mp3]
+      + [Template 4: Content script sending message to service worker][mp4]
     + Open educational resource (OER) learning objects
     + Low-content book automation
       + Reduces workload for publishing to github, [gitbook](https://www.gitbook.com/), etc.
@@ -22,6 +22,10 @@
 
 [chop]: https://new.sealchop.com/create/index.html
 [capi]: https://about.sealchop.com
+[mp1]: https://github.com/dofufa/chrome-message-passing-1
+[mp2]: https://github.com/dofufa/chrome-message-passing-2
+[mp3]: https://github.com/dofufa/chrome-message-passing-3
+[mp4]: https://github.com/dofufa/chrome-message-passing-4
 <!--
 
 **dofufa/dofufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
