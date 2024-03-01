@@ -8,9 +8,11 @@
       + Template 3: Popup sending message to content script
       + Template 4: TBD
     + Open educational resource (OER) learning objects
+    + Low-content book automation
+      + Reduces workload for publishing to github, [gitbook](https://www.gitbook.com/), etc.
+    + Podcast automation for academic librarians (in higher education)
   + Earilier
     * Data Visualization with Google Charts
-    * Low-content book automation
     * Medium-content podcast production
     * [Chinese seal chop generator][chop] for creators
     * Seal chop API for developers
