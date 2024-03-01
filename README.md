@@ -1,12 +1,15 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-  + Chrome extension message passing templates 
-  * Data Visualization with Google Charts
-  * Low-content book automation
-  * Medium-content podcast production
-  * [Chinese seal chop generator][chop] for creators
-  * Seal chop API for developers
+  + March 2024
+    + Chrome extension message passing templates
+    + Open educational resource (OER) learning objects
+  + Earilier
+    * Data Visualization with Google Charts
+    * Low-content book automation
+    * Medium-content podcast production
+    * [Chinese seal chop generator][chop] for creators
+    * Seal chop API for developers
 
 ### Useful Tools
   + https://letsdebug.net/ for Let's Encrypt https://letsencrypt.org/
